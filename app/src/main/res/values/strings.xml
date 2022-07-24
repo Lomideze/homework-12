@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Homework 12</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">Search</string>
+    <string name="rottweiler">Rottweiler</string>
+    <string name="doberman">Doberman</string>
+    <string name="jack">Jack Russel</string>
+    <string name="caucasian">Caucasian Shepard</string>
+    <string name="german">German Shepard</string>
+    <string name="rottweilerDesc">The Rottweiler is a breed of domestic dog, regarded as medium-to-large or large. The dogs were known in German as Rottweiler Metzgerhund, meaning Rottweil butchers dogs,because their main use was to herd livestock and pull carts laden with butchered meat to market. This continued until the mid-19th century when railways replaced droving. Although still used to herd stock in many parts of the world, Rottweilers are now also used as search and rescue dogs, guard dogs, and police dogs.</string>
+    <string name="dobermanDesc">The Dobermann or Doberman Pinscher in the United States and Canada, is a medium-large breed of domestic dog that was originally developed around 1890 by Louis Dobermann, a tax collector from Germany. The Dobermann has a long muzzle. It stands on its pads and is not usually heavy-footed. Ideally, they have an even and graceful gait. Traditionally, the ears are cropped and posted and the tail is docked. However, in some countries, these procedures are now illegal and it is often considered cruel and unnecessary. Dobermanns have markings on the chest, paws/legs, muzzle, above the eyes, and underneath the tail.
+
+Dobermanns are known to be intelligent, alert, and tenaciously loyal companions and guard dogs. Personality varies a great deal between each individual but, if taken care of and properly trained, they are generally considered to be loving and devoted companions. The Dobermann is driven, strong, and sometimes stubborn. With a consistent approach, they can be easy to train and will learn very quickly.</string>
+    <string name="jackDesc">The Jack Russell Terrier is a small terrier that has its origins in fox hunting in England. It is principally white-bodied and smooth, rough or broken-coated and can be any colour.
+
+    Jack Russells are an energetic breed that rely on a high level of exercise and stimulation. They are relatively free from any serious health complaints. Originating from dogs bred and used by the Rev. John Russell in the early 19th century, from whom the breed takes its name, the Jack Russell has similar origins to the modern Fox Terrier. It has gone through several changes over the years, corresponding to different use and breed standards set by kennel clubs. Recognition by kennel clubs for the Jack Russell breed has been opposed by the breeds parent societies – which resulted in the breeding and recognition of the Parson Russell terrier. Jack Russells have appeared many times in film, television, and print – with several historical dogs of note.</string>
+    <string name="germanDesc">The German Shepherd or Alsatian is a German breed of working dog of medium to large size. The breed was developed by Max von Stephanitz using various traditional German herding dogs from 1899.
+
+It was originally bred as a herding dog, for herding sheep. It has since been used in many other types of work, including disability assistance, search-and-rescue, police work and warfare. It is commonly kept as a companion dog, and according to the Fédération Cynologique Internationale had the second-highest number of annual registrations in 2013.</string>
+    <string name="caucasianDesc">The Caucasian Shepherd Dog or Caucasian Ovcharka is a large livestock guardian dog native to the countries of the Caucasus region, notably Georgia, Armenia, Azerbaijan, Ossetia, Stavropol Krai, Krasnodar Krai and Dagestan. It was developed in the Soviet Union from about 1920 from dogs of the Caucasus Mountains and the steppe regions of Southern Russia. The Caucasus Mountains in Georgia has historically been the principal region of distribution of the Caucasian Shepherd dogs, both in terms of numbers and the quality of the dogs present in the area.</string>
+</resources>
